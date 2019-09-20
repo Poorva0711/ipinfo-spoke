@@ -28,48 +28,6 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_step_instance</document>
         <document_key>db9a2e73dbf3f3003d3d196c29961924</document_key>
-        <order>4</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-17 04:45:25</sys_created_on>
-        <sys_id>279a2e73dbf3f3003d3d196c29961957</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-17 04:45:25</sys_updated_on>
-        <value>String</value>
-        <variable display_value="">579a2e73dbf3f3003d3d196c2996193c</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_step_instance</document>
-        <document_key>db9a2e73dbf3f3003d3d196c29961924</document_key>
-        <order>2</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-17 04:45:25</sys_created_on>
-        <sys_id>2b9a2e73dbf3f3003d3d196c29961956</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-17 04:45:25</sys_updated_on>
-        <value>String</value>
-        <variable display_value="">d79a2e73dbf3f3003d3d196c29961933</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_step_instance</document>
-        <document_key>db9a2e73dbf3f3003d3d196c29961924</document_key>
-        <order>6</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-17 04:45:25</sys_created_on>
-        <sys_id>639a2e73dbf3f3003d3d196c29961957</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-17 04:45:25</sys_updated_on>
-        <value>String</value>
-        <variable display_value="">d39a2e73dbf3f3003d3d196c29961945</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_step_instance</document>
-        <document_key>db9a2e73dbf3f3003d3d196c29961924</document_key>
         <order>600</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -112,48 +70,6 @@
         <sys_updated_on>2019-09-17 04:45:25</sys_updated_on>
         <value>35aa573fd7802200bdbaee5b5e610375</value>
         <variable display_value="">f5e56d79b3101300176b051a16a8dce4</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_step_instance</document>
-        <document_key>db9a2e73dbf3f3003d3d196c29961924</document_key>
-        <order>3</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-17 04:45:25</sys_created_on>
-        <sys_id>af9a2e73dbf3f3003d3d196c29961956</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-17 04:45:25</sys_updated_on>
-        <value>String</value>
-        <variable display_value="">9f9a2e73dbf3f3003d3d196c29961937</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_step_instance</document>
-        <document_key>db9a2e73dbf3f3003d3d196c29961924</document_key>
-        <order>7</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-17 04:45:25</sys_created_on>
-        <sys_id>e79a2e73dbf3f3003d3d196c29961957</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-17 04:45:25</sys_updated_on>
-        <value>String</value>
-        <variable display_value="">ab9a2e73dbf3f3003d3d196c29961949</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_step_instance</document>
-        <document_key>db9a2e73dbf3f3003d3d196c29961924</document_key>
-        <order>5</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-17 04:45:25</sys_created_on>
-        <sys_id>eb9a2e73dbf3f3003d3d196c29961956</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-17 04:45:25</sys_updated_on>
-        <value>String</value>
-        <variable display_value="">1f9a2e73dbf3f3003d3d196c29961940</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=db9a2e73dbf3f3003d3d196c29961924"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">

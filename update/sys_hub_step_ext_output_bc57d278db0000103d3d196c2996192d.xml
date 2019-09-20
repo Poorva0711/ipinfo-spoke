@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,isLocal=true</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -27,23 +27,23 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>sn_auth_token</element>
+        <element>latitude</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="">password2</internal_type>
-        <label>Credential Value</label>
+        <internal_type display_value="String">string</internal_type>
+        <label>latitude</label>
         <mandatory>true</mandatory>
-        <max_length>255</max_length>
-        <model display_value="Call IPInfo REST API">e52f18ffdb7fb3003d3d196c29961965</model>
-        <model_id>e52f18ffdb7fb3003d3d196c29961965</model_id>
+        <max_length>8000</max_length>
+        <model display_value="Parse Returned Data">db9a2e73dbf3f3003d3d196c29961924</model>
+        <model_id>db9a2e73dbf3f3003d3d196c29961924</model_id>
         <model_table>sys_hub_step_instance</model_table>
-        <name>var__m_sys_hub_step_ext_output_e52f18ffdb7fb3003d3d196c29961965</name>
+        <name>var__m_sys_hub_step_ext_output_db9a2e73dbf3f3003d3d196c29961924</name>
         <next_element/>
-        <order>0</order>
+        <order>4</order>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
@@ -59,16 +59,16 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_output</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-17 05:15:17</sys_created_on>
-        <sys_id>4171b2b7dbf3f3003d3d196c2996191f</sys_id>
+        <sys_created_on>2019-09-20 05:55:02</sys_created_on>
+        <sys_id>bc57d278db0000103d3d196c2996192d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>var__m_sys_hub_step_ext_output_e52f18ffdb7fb3003d3d196c29961965</sys_name>
+        <sys_name>var__m_sys_hub_step_ext_output_db9a2e73dbf3f3003d3d196c29961924</sys_name>
         <sys_package display_value="IPInfo Spoke" source="x_378457_ipinfo_sp">8a6c583fdb7fb3003d3d196c29961927</sys_package>
         <sys_policy/>
         <sys_scope display_value="IPInfo Spoke">8a6c583fdb7fb3003d3d196c29961927</sys_scope>
-        <sys_update_name>sys_hub_step_ext_output_4171b2b7dbf3f3003d3d196c2996191f</sys_update_name>
+        <sys_update_name>sys_hub_step_ext_output_bc57d278db0000103d3d196c2996192d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-17 05:15:17</sys_updated_on>
+        <sys_updated_on>2019-09-20 05:55:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
